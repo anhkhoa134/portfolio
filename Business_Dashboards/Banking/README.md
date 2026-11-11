@@ -1,7 +1,7 @@
 # Portfolio
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
-# [Project 7: Bank Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Banking)
+# [Project 7: Bank Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards)
 
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
@@ -28,5 +28,5 @@ SƠ LƯỢC
 -	Nhìn vào biểu đồ lãi suất liên ngân hàng, thấy rõ lãi suất lập đỉnh từ 2019 đến hiện tại. Giải thích phần nào các Doanh nghiệp giảm hoạt động kinh doanh cũng như giải ngân.
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/49820833-4f11-40a3-837c-06d7246b619d)
 
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Banking)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards)
 

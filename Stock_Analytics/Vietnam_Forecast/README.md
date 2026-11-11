@@ -3,7 +3,7 @@ Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
 
 
-# [Project 2: Using Machine Learning to predict Vietnam's stock market](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics/Vietnam_Forecast)
+# [Project 2: Using Machine Learning to predict Vietnam's stock market](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics)
 * Data Crawling: Investpy, Pandas
 * Data Processing: Pandas, Numpy, RSI indicator
 * Data Visualization: Matplotlib
@@ -68,6 +68,6 @@ Example Data Analyst Portfolio
 * Hoa Phat's stock does not show any signs of growth in the near future, but it is currently priced very well compared to other stocks
 * Suitable to buy in small quantity, medium price
 
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics/Vietnam_Forecast)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics)
 
 
