@@ -1,7 +1,7 @@
 # Portfolio
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
-# [Project 9: Financial Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_9)
+# [Project 9: Financial Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Finance)
 
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
@@ -27,5 +27,5 @@ SƠ LƯỢC
 
 * Tình trạng Nợ, Vốn Chủ Sở Hữu và Tài Sản: Công ty duy trì một tỷ lệ Nợ,VCSH / Tổng NV và TSDH,TSNH / Tổng TS ổn định, cho thấy sự ổn định trong tài chính và khả năng quản lý nợ tốt.
 
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_9)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Finance)
 

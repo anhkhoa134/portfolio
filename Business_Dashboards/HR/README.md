@@ -1,7 +1,7 @@
 # Portfolio
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
-# [Project 8: HR Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_8)
+# [Project 8: HR Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/HR)
 
 QUICKVIEW
 * Visualization and sharing tool: Power BI
@@ -23,6 +23,6 @@ QUICKVIEW
 ### Detail
 ![2023-06-17_073221](https://github.com/anhkhoa134/portfolio/assets/108108639/d8317c4d-f7db-4160-83c3-872991e00a41)
   
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_8)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/HR)
 
 

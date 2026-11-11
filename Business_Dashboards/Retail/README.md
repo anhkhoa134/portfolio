@@ -1,7 +1,7 @@
 # Portfolio
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
-# [Project 6: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
+# [Project 6: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Retail)
 
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
@@ -38,5 +38,5 @@ SƠ LƯỢC
 ### CHI TIẾT DỮ LIỆU
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/8edecb9d-d477-478c-abd1-a1726dd2748d)
 
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Retail)
 

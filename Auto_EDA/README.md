@@ -3,7 +3,7 @@ Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
 
 
-# [Project 4: Automatically Exploratory Data Analysis (EDA) any dataset](https://github.com/anhkhoa134/portfolio/tree/main/Project_4)
+# [Project 4: Automatically Exploratory Data Analysis (EDA) any dataset](https://github.com/anhkhoa134/portfolio/tree/main/Auto_EDA)
 
 * Data Processing: pyodbc, os, pandas, numpy
 * Data Visualization: matplotlib, seaborn, plotly, pandas_profiling, sweetviz, pandasgui
@@ -73,5 +73,5 @@ Example Data Analyst Portfolio
 * PandasGui
 ![2023-08-04_170551](https://github.com/anhkhoa134/portfolio/assets/108108639/d9721d9e-acb5-445b-98aa-106ffe481c12)
 
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_4)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Auto_EDA)
 

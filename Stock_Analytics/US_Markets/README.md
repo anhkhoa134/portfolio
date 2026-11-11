@@ -3,7 +3,7 @@ Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
 
 
-# [Project 1: Stock price statistics of companies in NASDAQ, S&P500, Dow Jones using data scraping and Excel automation](https://github.com/anhkhoa134/portfolio/tree/main/Project_1)
+# [Project 1: Stock price statistics of companies in NASDAQ, S&P500, Dow Jones using data scraping and Excel automation](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics/US_Markets)
 
 * Data Crawling: Yahoo
 * Data Processing: Pandas, Numpy
@@ -54,4 +54,4 @@ Example Data Analyst Portfolio
 - This table shows the % change in the last 5 years, now which month will show blue
 ![image](https://user-images.githubusercontent.com/108108639/215115518-36a2a32e-a824-4d6c-9369-0c16094541f3.png)
 
-[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_1)
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics/US_Markets)

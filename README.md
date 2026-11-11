@@ -3,15 +3,23 @@
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
 
+## Data projects
+
+- [Business Dashboards](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards) — finance, HR, banking, and retail
+- [Stock Analytics](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics) — US market stats, Vietnam forecast, and Telegram alerts
+- [Web Scraping](https://github.com/anhkhoa134/portfolio/tree/main/Web_Scraping) — Tiki, Mogi, Backmarket, and Masothue
+- [Auto EDA](https://github.com/anhkhoa134/portfolio/tree/main/Auto_EDA) — one-click profiling for any dataset
+
+
 
 #
-# [Project 1: Stock price statistics of companies in NASDAQ, S&P500, Dow Jones using data scraping and Excel automation](https://github.com/anhkhoa134/portfolio/tree/main/Project_1)
+# [Project 1: Stock price statistics of companies in NASDAQ, S&P500, Dow Jones using data scraping and Excel automation](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics/US_Markets)
 * Data Crawling: Yahoo
 * Data Processing: Pandas, Numpy
 * Excel Automation: Xlwt
 ![image](https://user-images.githubusercontent.com/108108639/215115100-77de0562-f668-4721-8c69-642121b4b3d5.png)
 
-# [Project 2: Using Machine Learning to predict Vietnam's stock market](https://github.com/anhkhoa134/portfolio/blob/main/Project_2)
+# [Project 2: Using Machine Learning to predict Vietnam's stock market](https://github.com/anhkhoa134/portfolio/blob/main/Stock_Analytics/Vietnam_Forecast)
 * Data Crawling: Investpy, Pandas
 * Data Processing: Pandas, Numpy, RSI indicator
 * Data Visualization: Matplotlib
@@ -19,30 +27,30 @@ Example Data Analyst Portfolio
   * Time Series Analysis: ARIMA, Prophet (Facebook Library)
   * Price Analysis: Supervised Learning (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, ...)
   * Algorithm optimization: GridSearchCV
-![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
-![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_211443.png)
+![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Stock_Analytics/US_Markets/images/2022-06-25_183113.png)
+![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Stock_Analytics/US_Markets/images/2022-06-25_211443.png)
 
 #
-# [Project 3: Create stock price alerts using Python and API Google Drive, Sheets, Telegram](https://github.com/anhkhoa134/portfolio/tree/main/Project_3)
+# [Project 3: Create stock price alerts using Python and API Google Drive, Sheets, Telegram](https://github.com/anhkhoa134/portfolio/tree/main/Stock_Analytics/Telegram_Alerts)
 * Data Crawling: Yahoo, Investpy
 * Data Processing: Pandas, Numpy
 * API Google Drive, Sheets, Telegram
 ![2022-12-04_202643](https://user-images.githubusercontent.com/108108639/215137534-5cb2e6c1-0c12-4bf0-82dd-80a58fb02d0c.png)
 
 # 
-# [Project 4: Automatically Exploratory Data Analysis (EDA) any dataset](https://github.com/anhkhoa134/portfolio/tree/main/Project_4)
+# [Project 4: Automatically Exploratory Data Analysis (EDA) any dataset](https://github.com/anhkhoa134/portfolio/tree/main/Auto_EDA)
 * Data Processing: pyodbc, os, pandas, numpy
 * Data Visualization: matplotlib, seaborn, plotly, pandas_profiling, sweetviz, pandasgui
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/108108639/258454229-57bc03dc-81c8-408d-a745-5851f5565100.png)
 
 # 
-# [Project 5: Using selenium to scrape website data: Tiki, Mogi, Backmarket, Masothue](https://github.com/anhkhoa134/portfolio/tree/main/Project_5)
+# [Project 5: Using selenium to scrape website data: Tiki, Mogi, Backmarket, Masothue](https://github.com/anhkhoa134/portfolio/tree/main/Web_Scraping)
 * Data Crawling: Selenium
 * Data Processing: Pandas, Regex
-![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_2/images/2022-06-30_004602.png)
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Stock_Analytics/Vietnam_Forecast/images/2022-06-30_004602.png)
 
 #
-# [Project 6: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
+# [Project 6: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Retail)
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
 * Database: AdventureWorks
@@ -53,7 +61,7 @@ SƠ LƯỢC
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/7754243b-6983-4cda-92c3-66a823060edc)
 
 #
-# [Project 7: Bank Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_7)
+# [Project 7: Bank Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Banking)
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
 * Database: Dữ liệu giải ngân của Ngân hàng
@@ -62,14 +70,14 @@ SƠ LƯỢC
 
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/ea3bca45-d71d-4778-af90-62b0f9f1aa40)
 
-# [Project 8: HR Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_8)
+# [Project 8: HR Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/HR)
 QUICKVIEW
 * Visualization and sharing tool: Power BI
 * Dataset over 1400 employees in many departments
 * Include: name, age, department, income, start date, overtime,...
 ![2023-06-17_073109](https://github.com/anhkhoa134/portfolio/assets/108108639/0f3ac283-1968-4082-b06c-a4fca950e4b2)
 
-# [Project 9: Financial Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_9)
+# [Project 9: Financial Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Business_Dashboards/Finance)
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
 * Database: Crawl dữ liệu từ trang Cafef
